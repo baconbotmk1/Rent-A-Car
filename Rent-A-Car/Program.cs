@@ -6,7 +6,7 @@ namespace Rent_A_Car
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
